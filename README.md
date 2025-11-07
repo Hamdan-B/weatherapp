@@ -22,7 +22,6 @@ A beautiful, modern weather application built with React Native and Expo. Weathe
 - **expo-router** (file-based navigation)
 - **@expo-google-fonts/roboto** & **@expo-google-fonts/lexend** (custom fonts)
 - **axios** (API requests)
-- **@react-navigation/native** & **@react-navigation/native-stack** (navigation)
 - **react-native-safe-area-context** & **react-native-screens** (UI & navigation)
 
 ---
@@ -33,7 +32,7 @@ A beautiful, modern weather application built with React Native and Expo. Weathe
 
 ```bash
 git clone https://github.com/hamdan-b/weatherapp.git
-cd weatherapp/weatherapp
+cd weatherapp
 ```
 
 ### 2. Install dependencies
@@ -60,7 +59,6 @@ npx expo start
 
 ## 🖼️ Screenshots
 
-Add your screenshots to the `screenshots/` folder and reference them here:
 
 | Light Mode                             | Dark Mode                            |
 | -------------------------------------- | ------------------------------------ |
