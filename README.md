@@ -62,7 +62,7 @@ npx expo start
 
 | Light Mode                             | Dark Mode                            |
 | -------------------------------------- | ------------------------------------ |
-| ![Light](./screenshots/light-mode.png) | ![Dark](./screenshots/dark-mode.png) |
+| ![Light](./assets/images/light.png) | ![Dark](./assets/images/dark.png) |
 
 ---
 
